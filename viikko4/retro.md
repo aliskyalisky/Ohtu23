@@ -5,3 +5,4 @@ Tässä tekniikassa piirretään papereille ympyrä, joka jaetaan sektoreihin jo
 
 Glad, Sad, Mad
 Suoraan asiaan tähtäävä tekniikka käyttää apunaan kortteja johon voidaan kirjoittaa hyvin ytimekkäitä ja lyhyitä havaintoja kuuluen kategoriaan Glad, Sad Tai Mad eli suomennettuna havaintoja jotka herättivät Iloa, Surua tai Raivoa. Tämän jälkeen korteista keskustellaan ja mietitään yhdessä miten asioita voisi mahdollisesti parantaa. 
+a
